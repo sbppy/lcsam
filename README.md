@@ -1,4 +1,1 @@
-leancloud
-=========
-
-leancloud sample 
+Cloud code project for sample. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
